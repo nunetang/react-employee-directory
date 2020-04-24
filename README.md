@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this assignment, I had to create an employee directory with React. This assignment will requires to break up our application's UI into components, manage component state, and respond to user events.
+For this assignment, I had to create an employee directory with React. This assignment will require to break up our application's UI into components, manage component state, and respond to user events.
 
 ## Demo:
 
